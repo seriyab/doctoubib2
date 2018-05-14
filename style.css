@@ -1,0 +1,59 @@
+.brand-logo
+{
+	padding: 150px; 
+	color: black;
+	font-size: 35px;
+}
+.bloc-1
+{
+	padding-right: 150px;
+	color: black;
+	font-size: 15px;
+
+}
+.bloc-2
+{
+	display: inline-block;
+	text-align: center;
+	color: black;
+	font-size: 15px;
+	border: 1px solid black;
+	margin: 0px;
+	padding: 0px;
+	
+}
+.ligne-1 li
+{
+	display:inline-block;
+	font-size: 17px;
+	border-right: 1px solid black;
+	padding-right: 20px;
+	padding-left: 20px;
+
+}
+.ligne-1 li:last-child
+{
+	border-right: none;
+}
+.ligne-1 li a
+{
+	color: black;
+}
+.parag-1
+{
+	font-size: 20px;
+	padding-bottom: 30px;
+}
+
+.custom-btn:hover {
+	font-weight: bold;
+}
+.formulaire-btn
+{
+	font-weight: bold;
+	color: black;
+}
+.card
+{
+	border-radius: 10px;
+}
